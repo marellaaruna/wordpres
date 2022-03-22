@@ -1,1 +1,1 @@
-# wordpres# nginx1
+# wordpress
